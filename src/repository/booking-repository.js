@@ -1,4 +1,4 @@
-const {Booking} = require('../model/index');
+const {Booking} = require('../models/index');
 const {StatusCodes} = require('http-status-codes');
 const {AppError,ValidationError} = require('../utils/errors/index');
 
